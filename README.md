@@ -27,4 +27,4 @@
 ### Связь :iphone:
 
 -   **Email:** lordwebkit@gmail.com
--  **Telegram:** @lordwebkit
+-  **Telegram:** [@lordwebkit](https://t.me/lordwebkit)
