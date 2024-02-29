@@ -11,11 +11,11 @@
 1.  **Маркетплейс Scanros**
     
     -   Описание: Разработка и поддержка веб-сайта, предоставляющего возможность пользователям покупать и продавать сельхозтехнику и запчасти. Использовал Vue.js 2 и Slim Ruby on Rails для создания фронтенда.
-    -   Технологии: Vue.js, Vuex, Ruby on Rails REST API, Bootstrap.
+    -   Технологии: Vue.js, Vuex, slim Ruby on Rails, REST API, Bootstrap.
 2.  **Приложение Emi Shop**
  
     -   Описание: Разработка веб-приложения, предоставляющего возможность пользователям покупать товары для ногтей. Использовал Vue 3, Pinia, Vue Router и CapacitorJS для создания фронтенда.
-    -   Технологии: Vue.js, Vuex, Ruby on Rails REST API, Bootstrap.
+    -   Технологии: Vue.js, Pinia, Axios, Capacitor, Scss.
 
 ### Навыки :weight_lifting_man:
 
