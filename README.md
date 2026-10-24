@@ -1,30 +1,44 @@
-## Привет :wave:, Я Vue Frontend Developer
+# Никита Каширский
 
-### Обо мне :man_technologist:
+**Frontend-разработчик · Vue / Nuxt / TypeScript**
 
-Я — опытный frontend разработчик, специализирующийся на фреймворке Vue.js. Мои навыки включают в себя создание интерактивных и отзывчивых веб-приложений с использованием современных технологий и лучших практик разработки.
+Разрабатываю бизнес-приложения: рабочие места специалистов, личные кабинеты,
+каталоги и системы управления проектами. Работаю со сложными формами, таблицами,
+правами доступа и внешними API. В отдельных проектах разрабатываю серверную часть
+на NestJS и PostgreSQL.
 
-### Проекты :european_castle:
+## Выбранные кейсы
 
-Здесь приведены некоторые из моих проектов, созданных с использованием Vue.js:
+| Кейс | Мой вклад | Технологии |
+| --- | --- | --- |
+| [Медицинская информационная система](cases/medical-frontend.md) | Интерфейс карты пациента и приёма, формы, структура организаций, интеграция с API и тесты | Nuxt 4, Vue 3, TypeScript, Pinia, Vitest, Playwright |
+| [Платформа управления проектами](cases/project-management.md) | Диаграмма Ганта, аналитика ресурсов, серверные расчёты, интеграция с Jira и тесты | Nuxt 4, NestJS, PostgreSQL, Prisma, Vitest, Playwright |
+| [Билетная платформа](cases/ticketing.md) | Frontend-интеграция платёжного SDK, доработки схемы зала и обработка ошибок | Vue 2, TypeScript, Vuex, Canvas |
 
-1.  **Маркетплейс Scanros**
-    
-    -   Описание: Разработка и поддержка веб-сайта, предоставляющего возможность пользователям покупать и продавать сельхозтехнику и запчасти. Использовал Vue.js 2 и Slim Ruby on Rails для создания фронтенда.
-    -   Технологии: Vue.js, Vuex, slim Ruby on Rails, REST API, Bootstrap.
-2.  **Приложение Emi Shop**
- 
-    -   Описание: Разработка веб-приложения, предоставляющего возможность пользователям покупать товары для ногтей. Использовал Vue 3, Pinia, Vue Router и CapacitorJS для создания фронтенда.
-    -   Технологии: Vue.js, Pinia, Axios, Capacitor, Scss.
+Коммерческие кейсы описаны без исходников, названий заказчиков и рабочих данных.
+В каждом отдельно обозначена моя зона ответственности.
 
-### Навыки :weight_lifting_man:
+## Стек
 
--   **Языки программирования**: JavaScript, TypeScript
--   **Фреймворки и библиотеки**: Vue.js, Nuxt.js, Vuex, Pinia, Vue Router, Bootstrap, Tailwind
--   **Инструменты и технологии**: Git, Webpack, Babel, ESLint, Jest, Axios, CapacitorJs
--   **Другие навыки**: Responsive Design, Cross-browser Compatibility, RESTful APIs
+- **Frontend:** JavaScript, TypeScript, Vue 2/3, Nuxt 3/4, Pinia, Vuex, Tailwind CSS.
+- **Интеграции:** REST API, платёжный SDK, Jira; согласование состояний интерфейса с серверными данными.
+- **Проверки:** Vitest, Vue Test Utils, Playwright, TypeScript, ESLint.
+- **Backend и окружение:** NestJS, Prisma, PostgreSQL, Docker, GitLab CI/CD.
 
-### Связь :iphone:
+## Открытый код
 
--   **Email:** lordwebkit@gmail.com
--  **Telegram:** [@lordwebkit](https://t.me/lordwebkit)
+[**Nuxt SSR examples**](https://github.com/lordwebkit/ssr) — учебные примеры
+загрузки данных, серверных маршрутов, middleware и состояния в Nuxt.
+Авторизация в этом репозитории демонстрационная.
+
+## Предыдущий опыт
+
+**Scanros:** разработка и поддержка frontend маркетплейса сельхозтехники
+и запчастей — Vue 2, Vuex, Rails/Slim, REST API.
+
+**Emi Shop:** frontend приложения для покупки товаров — Vue 3, Pinia,
+Vue Router, Capacitor, Axios, SCSS.
+
+## Контакты
+
+[Telegram](https://t.me/lordwebkit) · [Email](mailto:lordwebkit@gmail.com)
