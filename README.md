@@ -4,7 +4,7 @@
 
 Более 4 лет коммерческой веб-разработки, с 2022 года.
 
-[Telegram](https://t.me/lordwebkit) · [Email](mailto:lordwebkit@gmail.com) · [Примеры кода](https://github.com/lordwebkit/ssr)
+[Резюме на hh](https://rostov.hh.ru/resume/50d6664dff0bade6dc0039ed1f4f7355575a4c) · [Telegram](https://t.me/lordwebkit) · [Email](mailto:lordwebkit@gmail.com) · [Примеры кода](https://github.com/lordwebkit/ssr)
 
 Разрабатываю медицинские и финансовые интерфейсы, личные кабинеты, e-commerce
 и билетные платформы. Работаю со сложными формами, таблицами, визуализацией данных
